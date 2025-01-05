@@ -1,1 +1,0 @@
-## Instruction and getting started
