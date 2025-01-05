@@ -1,8 +1,18 @@
 ---
-title: Home
-layout: home
+title: Getting Started
+layout: Getting Started
 ---
 
+Learn how to cut your Kubernetes expenses, monitor your costs, and improve container security all in one place.
+
+
+Supported providers
+
+Google GKE
+Microsoft AKS
+Microsoft Azure for Government
+RedHat OpenShift Service on AWS (Cost Monitoring and Optimization insights)
+kOps on AWS (Cost Monitoring and Optimization insights)
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
